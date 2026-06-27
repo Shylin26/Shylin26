@@ -40,6 +40,7 @@ I'm not interested in tutorial projects. I want to build things that are technic
 
 - 🔗 GitHub — you're already here
 - 📬 Reach me — open to collabs, open source, and conversations about AI systems
+parishachauhan26@gmail.com
 
 ---
 
